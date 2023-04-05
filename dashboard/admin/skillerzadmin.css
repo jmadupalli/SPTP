@@ -1,0 +1,142 @@
+body{
+margin:0px;
+padding:0px;
+}
+.nav{
+background:none repeat scroll 0% 0% rgb(88, 177, 252);
+margin:0px;
+border:0px none;
+padding-right:15px;
+height:40px;
+}
+.left{
+float:left;
+color:#fff;
+font-size: 14px;
+}
+.right{
+float:right;
+color:#fff;
+font-size: 14px;
+}
+.navbar{
+background-color:rgb(36, 141, 193);
+float:left;
+height:100%;
+width:15%;
+display: block !important;
+padding:0px;
+padding-left:0px;
+margin-top:-6px;
+}
+.navlist{
+list-style:none;
+margin:0px;
+padding:0px;
+
+}
+.navlist > li{
+display:block;
+padding:0px;
+margin:0px;
+border:0px none;
+position:relative;
+padding: 0px 16px 0px 7px !important;
+}
+.navlist  li  a {
+display:block;
+height:38px;
+margin:0px;
+text-decoration:none;
+color:rgb(255,255,255);
+padding-top: 15px;
+}
+.navlist li:hover {
+background-color:#19627A;
+}
+.content{
+float:left;
+bottom:0;
+width:85%;
+margin-top:-6px;
+}
+.dashbox{
+width:350px;
+height:175px;
+border: 1px solid;
+border-radius: 10px;
+margin: 50px;
+margin-left:125px;
+display: inline-block;
+position:absolute;
+}
+.dashbox1{
+width:350px;
+height:175px;
+border: 1px solid;
+border-radius: 10px;
+margin: 50px;
+margin-left:575px;
+display: inline-block;
+position:absolute;
+}
+.textd{
+color:#333;
+font-size:20px;
+padding: 50px;
+padding-bottom:0px;
+display:inline-block;
+position:absolute;
+}
+.textd1{
+color:#333;
+font-size:20px;
+padding: 50px;
+padding-bottom:0px;
+position:absolute;
+right:10px;
+margin-top:-20px;
+display:inline-block;
+}
+small{
+font-size:12px;
+color:rgb(122, 130, 141);
+}
+.setbox{
+width:300px;
+height:auto;
+margin-left:200px;
+margin-top: 50px;
+border:1px solid;
+border-radius: 10px;
+display:inline-block;
+}
+.setbox1{
+width:300px;
+height:auto;
+margin-left:200px;
+margin-top: 50px;
+border:1px solid;
+border-radius: 10px;
+display:inline-block;
+position:absolute;
+}
+.setbox1 input{
+margin:15px;
+}
+.setbox input{
+margin:15px;
+}
+.setbox2{
+width:300px;
+height:auto;
+margin-left:200px;
+margin-top: 550px;
+border:1px solid;
+border-radius: 10px;
+display:inline-block;
+position:absolute;
+}
+.setbox2 input{
+margin:15px;
+}

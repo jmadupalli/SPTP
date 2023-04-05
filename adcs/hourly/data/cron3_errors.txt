@@ -1,0 +1,1 @@
+[27-Jul-2021 14:00:01 UTC] PHP Notice:  Undefined index: token in /home/ptp/public_html/adcs/hourly/cron3.php on line 36
